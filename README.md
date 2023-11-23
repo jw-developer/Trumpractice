@@ -1,16 +1,13 @@
-# trumpractice
+# Trumpractice
 
-Eine Unterstützung beim Trompeteüben
+Eine Unterstützung beim Trompeteüben.
 
-## Getting Started
+## Beschreibung
 
-This project is a starting point for a Flutter application.
+Trumpractice ist ein Trompetencoach mit Übungen zur Unterstützung beim Trompetespielen. Die App beinhaltet viele Übungen zum Einspielen, zur Technik und zur Flexibilität. Die meisten Übungen sind in allen 12 Durtonleitern vorhanden und haben mehrere Levels. Man kann sich ein Audiobeispiel vorspielen lassen und Übungen zu den Favoriten hinzufügen, um sie schneller zu finden.
 
-A few resources to get you started if this is your first Flutter project:
+## Übungen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Einspielen: Atemübungen, Mundstückübungen, Töne aushalten
+- Technik: Tonleiterübungen, Doppelzunge, Trippelzunge, Chromatik
+- Flexibilität: Dreiklänge, Intervalle, Lippenbindungen
