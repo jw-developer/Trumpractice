@@ -58,7 +58,7 @@ class Infos extends StatelessWidget {
                 const Gap(5),
 
                 // Version
-                Text("Trumpractice Version v1.0.2", style: Styles.textStyle.copyWith(fontWeight: FontWeight.w400, fontSize: DeviceInfo.width(context) < DeviceInfo.breakpoint1(orientation) ? 16 : 20),),
+                Text("Trumpractice Version v1.0.3", style: Styles.textStyle.copyWith(fontWeight: FontWeight.w400, fontSize: DeviceInfo.width(context) < DeviceInfo.breakpoint1(orientation) ? 16 : 20),),
 
                 const Gap(10),
                 const Divider(),
